@@ -5,7 +5,7 @@ ICRA 2024 -- Estimating 3D Uncertainty Field: Quantifying Uncertainty for Neural
 
 ### Results: 2D Uncertainty
 
-<img src="https://github.com/poetrywanderer/3D-Uncertainty-Field/blob/main/assets/2d_uncertainty.png" width="1000">
+<img src="https://github.com/poetrywanderer/3D-Uncertainty-Field/blob/main/assets/2d_uncertainty.png" width="100%">
 
 ### Features
 
