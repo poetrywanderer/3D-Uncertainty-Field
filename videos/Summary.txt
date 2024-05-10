@@ -1,2 +1,0 @@
-The video offers an explanation of the method and interactive visualizations that enhance comprehension. 
-It also allows viewers to grasp the nuances of the proposed Uncertainty Field for 3D reconstruction in a more intuitive way. 
