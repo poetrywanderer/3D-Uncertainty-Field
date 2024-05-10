@@ -89,7 +89,7 @@ We provide two jupyter scripts to visualize the results:
 ## Related works
 - **S-NeRF** — [Stochastic Neural Radiance Fields: Quantifying Uncertainty in Implicit 3D Representations, 3DV 2021](https://arxiv.org/abs/2109.02123). The first to incorporate uncertainty estimation into NeRF, from the best of our knowledge.
 - **CF-NeRF** — [Conditional-Flow NeRF: Accurate 3D Modelling with Reliable Uncertainty Quantification, ECCV 2022](https://arxiv.org/abs/2203.10192). A more compressive and flexible framwork for more complex scenes, compared to S-NeRF. 
-- **Bayes' Rays** — [Uncertainty Quantification for Neural Radiance Fields Conference on Computer Vision and Pattern Recognition, CVPR 2024](https://bayesrays.github.io/). An awesome post-hoc framework to establish a volumetric uncertainty field using spatial perturbations and a Bayesian Laplace approximation. 
+- **Bayes' Rays** — [Bayes' Rays: Uncertainty Quantification for Neural Radiance Fields, CVPR 2024](https://bayesrays.github.io/). An awesome post-hoc framework to establish a volumetric uncertainty field using spatial perturbations and a Bayesian Laplace approximation. 
 
 ## Acknowledgement
 
